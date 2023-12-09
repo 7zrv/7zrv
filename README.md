@@ -24,7 +24,7 @@
 ## Git stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7zrv&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7zrv&layout=compact&theme=radical&?exclude_repo=dap__">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7zrv&layout=compact&theme=radical&exclude_repo=dap__">
 </p>
 <br/>
 
