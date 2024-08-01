@@ -10,9 +10,9 @@
 <br/>  
 
 ## Skill 
-- Language : Java (11), python (3.XX)
+- Language : Java, python (3.XX)
 - Framework : Spring boot
-- DB : MariaDB
+- DB : MySQL
 - ETC : AWS, Docker, Linux
 
 ## Certificate
