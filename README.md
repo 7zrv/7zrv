@@ -13,8 +13,8 @@ Spring Boot와 Java를 활용한 백엔드 개발을 전문으로 하며, 성능
 ## 🛠 Tools and Tech stack
 - **Language**: Java, Python, Go
 - **Framework**: Spring boot
-- **Database**: MySQL, MariaDb, Redis
-- **Testing**: JUnit
+- **Database**: MySQL, MariaDB, Redis
+- **Testing**: JUnit, PyTest
 - **Deployment**: Docker, AWS, Git actions
 - **Documentation**: Swagger
 
