@@ -51,7 +51,7 @@ Spring Boot와 Java를 활용한 백엔드 개발을 전문으로 하며, 성능
 ## Git stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7zrv&count_private=true&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7zrv&layout=compact&theme=radical&exclude_repo=dap__&?hide=html,css">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7zrv&layout=compact&theme=radical&hide=html,css&exclude_repo=dap__">
 </p>
 <br/>
 
