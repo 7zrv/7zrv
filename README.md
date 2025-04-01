@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome!&fontSize=30&descFontSize=40)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%2345DF22&title_bg=%23555555&icon=github.svg&icon_color=%23FFE4C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome!&fontSize=50&descFontSize=80)
 
 # 안녕하세요! 백엔드 개발자 윤서진입니다. 
 Spring Boot와 Java를 활용한 백엔드 개발을 전문으로 하며, 성능 최적화와 비용 효율성을 고려한 코드 및 아키텍처 설계에 관심이 많습니다.
