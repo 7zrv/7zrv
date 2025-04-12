@@ -2,7 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome!&fontSize=50&descFontSize=80)
 
 # 안녕하세요! 백엔드 개발자 윤서진입니다. 
-Spring Boot와 Java를 활용한 백엔드 개발을 전문으로 하며, 성능 최적화와 비용 효율성을 고려한 코드 및 아키텍처 설계에 관심이 많습니다.
+Spring Boot와 Java를 활용한 백엔드 개발을 전문으로 해왔으며
+현재 Go, Echo를 이용하여 업무를 진행하고 있습니다
+<br>
+성능 최적화와 비용 효율성을 고려한 코드 및 아키텍처 설계에 관심이 많습니다.
 <br>
 팀의 생산성에 기여하는 것을 즐기며, 꾸준히 성장하기 위해 노력하고 있습니다.
 
