@@ -2,20 +2,19 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome!&fontSize=50&descFontSize=80)
 
-# 안녕하세요! 백엔드 개발자 윤서진입니다. 
-Spring Boot와 Java를 활용한 백엔드 개발을 전문으로 해왔으며
-현재 Go, Echo를 이용하여 업무를 진행하고 있습니다
+# 백엔드 개발자 윤서진입니다. 
+TDD 기반 개발을 선호하며, 유지보수하기 쉬운 구조를 지향합니다.
 <br>
-성능 최적화와 비용 효율성을 고려한 코드 및 아키텍처 설계에 관심이 많습니다.
+조직에서는 성능 최적화와 비용 효율을 고려한 개선 작업을 주로 진행하고 있습니다
 <br>
-팀의 생산성에 기여하는 것을 즐기며, 꾸준히 성장하기 위해 노력하고 있습니다.
+최근 관심사로 Claude Code, Codex 등 AI 도구를 활용한 개발 생산성 향상을 탐구하고 있습니다.
 
 <br/>  
 
 ## 🔭 Currently
 - Go 기반 고성능 API 서버 개발 중
-- Claude Code Monitor 프로젝트 진행 중
-- 레거시 서비스 마이그레이션 (Java/Spring → Go/Echo)
+- 레거시 서비스 마이그레이션 (Java/Spring, Go/Echo)
+- Claude Code Monitor 프로젝트 진행 중 (개인)
 
 <br>
 
