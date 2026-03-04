@@ -13,7 +13,7 @@ TDD 기반 개발을 선호하며, 유지보수하기 쉬운 구조를 지향합
 
 ## 🔭 Currently
 - Go 기반 고성능 API 서버 개발 중
-- 레거시 서비스 마이그레이션 (Java/Spring, Go/Echo)
+- API 속도 향상, 운영 비용 절감 작업 중
 - Claude Code Monitor 프로젝트 진행 중 (개인)
 
 <br>
