@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7zrv&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome!&fontSize=50&descFontSize=80)
 
@@ -11,6 +12,12 @@ Spring Boot와 Java를 활용한 백엔드 개발을 전문으로 해왔으며
 
 <br/>  
 
+## 🔭 Currently
+- Go 기반 고성능 API 서버 개발 중
+- Claude Code Monitor 프로젝트 진행 중
+- 레거시 서비스 마이그레이션 (Java/Spring → Go/Echo)
+
+<br>
 
 ## 🛠 Tools and Tech stack
 - **Language**: Java, Python, Go, TypeScript
@@ -56,6 +63,3 @@ Spring Boot와 Java를 활용한 백엔드 개발을 전문으로 해왔으며
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7zrv&layout=compact&theme=radical&hide=html,css&exclude_repo=dap__">
 </p>
 <br/>
-
-
-
