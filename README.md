@@ -15,7 +15,7 @@ Spring Boot와 Java를 활용한 백엔드 개발을 전문으로 해왔으며
 ## 🔭 Currently
 - Go 기반 고성능 API 서버 개발 중
 - Claude Code Monitor 프로젝트 진행 중
-- 레거시 서비스 마이그레이션 (Java/Spring → Go/Echo)
+- 레거시 서비스 개선 및 마이그레이션 (Go/Echo, Java/Spring)
 
 <br>
 
