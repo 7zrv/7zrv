@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7zrv&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Profile Views](https://komarev.com/ghpvc/?username=7zrv&color=brightgreen)
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome!&fontSize=50&descFontSize=80)
 
@@ -15,7 +15,7 @@ Spring Boot와 Java를 활용한 백엔드 개발을 전문으로 해왔으며
 ## 🔭 Currently
 - Go 기반 고성능 API 서버 개발 중
 - Claude Code Monitor 프로젝트 진행 중
-- 레거시 서비스 개선 및 마이그레이션 (Go/Echo, Java/Spring)
+- 레거시 서비스 마이그레이션 (Java/Spring → Go/Echo)
 
 <br>
 
@@ -50,7 +50,9 @@ Spring Boot와 Java를 활용한 백엔드 개발을 전문으로 해왔으며
 
 ## 📜 Certificate
 - 정보처리기사 - 2023.09
+(자격증 번호 : 23202110149X)
 - SQLD - 2022.12
+(자격증 번호 : SQLD-047012646)
 
 <br>
 
